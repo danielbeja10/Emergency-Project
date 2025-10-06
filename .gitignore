@@ -1,10 +1,8 @@
-# אל תגרוס סודות/קבצי ביניים
+
 config.py
 .env
 
-# Python bytecode
 __pycache__/
 *.pyc
 
-# פלטים שלא צריך ברפו
 output/
